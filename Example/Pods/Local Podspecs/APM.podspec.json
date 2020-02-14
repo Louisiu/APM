@@ -1,0 +1,22 @@
+{
+  "name": "APM",
+  "version": "0.1.0",
+  "summary": "A short description of APM.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Louisiu/APM",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Louisiu": "fsliu136@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Louisiu/APM.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "APM/Classes/**/*"
+}

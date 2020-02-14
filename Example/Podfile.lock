@@ -1,0 +1,23 @@
+PODS:
+  - APM (0.1.0)
+  - Kiwi (3.0.0)
+
+DEPENDENCIES:
+  - APM (from `../`)
+  - Kiwi
+
+SPEC REPOS:
+  trunk:
+    - Kiwi
+
+EXTERNAL SOURCES:
+  APM:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  APM: 7a5e471a9ac0bcbdf8441c948e023fef6331f139
+  Kiwi: fbeafef0f00e4d8f7dcb3420a4930afe70af77f7
+
+PODFILE CHECKSUM: cf14bac751f574bdbf2514eb31de534545b21bd7
+
+COCOAPODS: 1.8.4
